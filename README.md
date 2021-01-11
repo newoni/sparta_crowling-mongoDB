@@ -1,4 +1,4 @@
-# sparta week03 html & python files
+# sparta week03 html & python files (mongoDB practice)
 ---
 
 ## db_prac.py
