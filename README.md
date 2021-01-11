@@ -1,11 +1,11 @@
 # sparta week03 html & python files
 
-#####db_prac.py
+##### db_prac.py
 
 #### genie.py
 
-###hello.py
+### hello.py
 
-####index.html
+#### index.html
 
-####matrix_quiz.py
+#### matrix_quiz.py
