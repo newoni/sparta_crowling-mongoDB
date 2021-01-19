@@ -28,7 +28,6 @@ from pymongo import MongoClient
 client = MongoClient('localhost', 27017)
 db = client.dbsparta
 
-# 바꾸기 - 예시
 db.movies.update_one({'title':'매트릭스'},{'$set':{'point':'0'}})
 
 
