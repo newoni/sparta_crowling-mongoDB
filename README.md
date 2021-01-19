@@ -14,6 +14,7 @@
 
 ## index.html
 - movie_crowling.py 로 불러온 데이터를 바탕 html file
+- Ajax 활용, http://spartacodingclub.shop/post 에서 받아온 data 로딩 후 보여주기
 
 ## matrix_quiz.py
 - crowling을 활용한 영화 매트릭스 평점 구하기
